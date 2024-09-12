@@ -1,4 +1,4 @@
-# Gabriel Soto
+<h1 align="center">Gabriel Soto</h1>
 
 **FullStack Engineer**
 **Gsoto9/Gsoto9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
