@@ -1,5 +1,6 @@
 <h1 align="center">Gabriel Soto</h1>
 
+I'm a passionate Software Engineer with a degree in Computer Science from Mercy University. Dedicated to creating innovative solutions and leveraging modern technologies. Adept at both front-end and back-end development, with a focus on delivering high-quality, efficient, and user-centric software
 **FullStack Engineer**
 **Gsoto9/Gsoto9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
