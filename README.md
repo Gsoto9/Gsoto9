@@ -29,4 +29,3 @@ I'm a passionate **Full-Stack Software Engineer** with a degree in Computer Scie
 - 👯 I’m looking to collaborate on everyone!
 - 💻 Make sure to check out all my repositories
 - ⚡ Fun fact: I played college baseball
--->
