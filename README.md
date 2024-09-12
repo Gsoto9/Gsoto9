@@ -2,7 +2,7 @@
 
 I'm a passionate **Full-Stack Software Engineer** with a degree in Computer Science from Mercy University. Dedicated to creating innovative solutions and leveraging modern technologies. Adept at both front-end and back-end development, with a focus on delivering high-quality, efficient, and user-centric software
 
-### <h1 align="center">🧰 Languages and Tools</h1>
+### 🧰 Languages and Tools
 <img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
 <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
